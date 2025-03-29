@@ -16,7 +16,7 @@ public class Obesidade2Activity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_abaixo_do_peso);
+        setContentView(R.layout.activity_obesidade2);
 
         txtDados = findViewById(R.id.txtDados);
         txtMensagem = findViewById(R.id.txtMensagem);
@@ -34,7 +34,7 @@ public class Obesidade2Activity extends AppCompatActivity {
                 "\nClassificação: Abaixo do Peso";
 
         txtDados.setText(resultado);
-        txtMensagem.setText("Você está abaixo do peso ideal. Cuide-se bem e busque equilíbrio 💪");
+        txtMensagem.setText("orça e amor por você mesma(o). Seu corpo merece saúde e respeito ");
         imagem.setImageResource(R.drawable.obesidade_2);
 
         btnFechar.setOnClickListener(v -> finish());
