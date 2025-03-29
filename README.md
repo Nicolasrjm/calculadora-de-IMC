@@ -27,4 +27,4 @@ Aplicativo Android desenvolvido em Java com o objetivo de calcular o Índice de 
 2. Abra o projeto no Android Studio
 3. Execute o projeto em um emulador ou dispositivo real
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone [https:/[/github.com/seu-usuario/seu-repositorio.git](https://github.com/Nicolasrjm/Calculadora_imc)](https://github.com/Nicolasrjm/Calculadora_imc)
