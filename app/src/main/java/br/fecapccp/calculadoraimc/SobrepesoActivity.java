@@ -31,7 +31,7 @@ public class SobrepesoActivity extends AppCompatActivity {
         String resultado = "Peso: " + peso + " kg\n" +
                 "Altura: " + altura + " m\n" +
                 "IMC: " + String.format("%.2f", imc) +
-                "\nClassificação: Abaixo do Peso";
+                "\nClassificação: Sobre Peso";
 
         txtDados.setText(resultado);
         txtMensagem.setText("\"Nada de culpa, só coragem! Hoje é um bom dia para recomeçar");

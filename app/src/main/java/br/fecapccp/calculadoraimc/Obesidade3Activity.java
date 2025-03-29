@@ -31,7 +31,7 @@ public class Obesidade3Activity extends AppCompatActivity {
         String resultado = "Peso: " + peso + " kg\n" +
                 "Altura: " + altura + " m\n" +
                 "IMC: " + String.format("%.2f", imc) +
-                "\nClassificação: Abaixo do Peso";
+                "\nClassificação: Obesidade3";
 
         txtDados.setText(resultado);
         txtMensagem.setText("Seu corpo precisa de atenção, não de julgamento. Você é forte, você consegue!");
