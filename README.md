@@ -1,5 +1,9 @@
 # 📱 Calculadora IMC
 
+<p align="center">
+  <img src="logoimc-fecap.gif" alt="Capa IMC">
+</p>
+
 Aplicativo Android desenvolvido em Java com o objetivo de calcular o Índice de Massa Corporal (IMC) e fornecer feedbacks personalizados com base na classificação do resultado.
 
 ## 🛠️ Tecnologias Utilizadas
